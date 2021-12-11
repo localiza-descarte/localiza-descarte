@@ -1,7 +1,6 @@
      
 # Localiza Descarte 🇧🇷
 <br>
-
 - ## Sobre a Localiza Descarte
 ## 👋 Surgimos em 2021 atráves do projeto Start Latam Powered by Accenture!
 ### Somos um aplicativo que interliga clientes á lojas, nossos parceiros são cadastrados em nosso banco de dados. 
