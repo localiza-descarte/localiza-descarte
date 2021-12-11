@@ -5,11 +5,11 @@
 ### Somos um aplicativo que interliga clientes á lojas, nossos parceiros são cadastrados em nosso banco de dados. 
 #### O projeto tem como objetivo dar um destino sustentável para os eletrônicos antigos ou quebrados que possuímos em nossas casas nos conectando a lojas parceiras, gerando descontos para você adquirir um produto novo e receita para as lojas, atráves dos componente!
 
-Integrantes da equipe: 
+## Integrantes da equipe: 
 
 <div>
 
- - Carlos Felipe Carvalho : <br>
+ - ### Carlos Felipe Carvalho : <br>
   <a href="https://github.com/felipecarvalhobarr" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/felipecarvalhobarr" target=_blank></a>
    <a href="https://www.linkedin.com/in/felipecarvbarr/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecarvbarr/" target=_blank></a>
   <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank></a>
@@ -18,15 +18,15 @@ Integrantes da equipe:
 
 <div>
  
- - Hyago Nascimento: <br>
+ -  ### Hyago Nascimento: <br>
   <a href="https://github.com/HyagoNascimento" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/HyagoNascimento" target=_blank></a>
-   <a href="https://www.linkedin.com/in/felipecarvbarr/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecarvbarr/" target=_blank></a>
+   <a href="#" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=#" target=_blank></a>
   <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank></a>
 </div>
 
 <div>
  
- -  João Vitor Santana: <br>
+ -  ### João Vitor Santana: <br>
   <a href="https://github.com/srwyctor" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/srwyctor" target=_blank></a>
    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-santana-a8969918a/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-santana-a8969918a/" target=_blank></a>
   <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank></a>
@@ -34,7 +34,7 @@ Integrantes da equipe:
 
 <div>
  
- - José Nattan Gama: <br>
+ -  ### José Nattan Gama: <br>
   <a href="https://github.com/NattanGama" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/NattanGama" target=_blank></a>
    <a href="https://www.linkedin.com/in/nattan-gama-05369a192" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nattan-gama-05369a192" target=_blank></a>
   <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank></a>
@@ -42,7 +42,7 @@ Integrantes da equipe:
 
 <div>
  
- - Lucas Gabriel Myoacr: <br>
+ -  ### Lucas Gabriel Myoacr: <br>
   <a href="https://github.com/moacyrchaves/moacyrchaves.git" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/moacyrchaves/moacyrchaves.git" target=_blank></a>
    <a href="http://linkedin.com/in/moacyr-chaves-19670a214" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=http://linkedin.com/in/moacyr-chaves-19670a214" target=_blank></a>
   <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank></a>
@@ -50,7 +50,7 @@ Integrantes da equipe:
 
 <div>
  
- - Thiago Silva Santos: <br>
+ -  ### Thiago Silva Santos: <br>
   <a href="https://github.com/ThiagoDevSantos" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/ThiagoDevSantos" target=_blank></a>
    <a href="https://www.linkedin.com/in/thiagosantosdeveloper" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosantosdeveloper" target=_blank></a>
   <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank></a>
@@ -65,13 +65,15 @@ Integrantes da equipe:
  - ## A problemática: 
  
 #### <br> O lixo eletrônico é um problema global, e no Brasil o problema é grave, são descartados cerca de 1,5 milhão de tonelada de e-lixo anualmente e somente 3% são reciclados ou vão para lugares apropriados.
-<br> 
+<br>
+     
 #### O descarte irregular de eletrônicos acarreta em problemas ambientais e que se gravam em nossa saúde devido aos componentes químicos presentes na produção dos mesmos como por exemplo o Mercúrio (Hg), Chumbo (Pb), entre outros. <br>
- 
+     
+<br>
+     
   - ## Rentabilidade: 
  
 #### <br> Cerca de 95% de todo e-lixo pode ser reciclado, gerando receita bruta a partir desse material.  Dados recente obtidos pelo G1 mostraram que 400 quilos desse lixo gera uma receita de aproximadamente R$4000,00, um mercado lucrativo para lojistas interessados em reciclar e se cadastrar em nossa plataforma. 
- 
 </div>
 
 <br>
