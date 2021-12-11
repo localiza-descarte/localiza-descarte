@@ -64,7 +64,9 @@ Integrantes da equipe:
  
  - ## A problemática: 
  
-#### <br> O lixo eletrônico é um problema global, e no Brasil o problema é grave, são descartados cerca de 1,5 milhão de tonelada de e-lixo anualmente e somente 3% são reciclados ou vão para lugares apropriados. <br> O descarte irregular de eletrônicos acarreta em problemas ambientais e que se gravam em nossa saúde devido aos componentes químicos presentes na produção dos mesmos como por exemplo o Mercúrio (Hg), Chumbo (Pb), entre outros. <br>
+#### <br> O lixo eletrônico é um problema global, e no Brasil o problema é grave, são descartados cerca de 1,5 milhão de tonelada de e-lixo anualmente e somente 3% são reciclados ou vão para lugares apropriados.
+<br> 
+#### O descarte irregular de eletrônicos acarreta em problemas ambientais e que se gravam em nossa saúde devido aos componentes químicos presentes na produção dos mesmos como por exemplo o Mercúrio (Hg), Chumbo (Pb), entre outros. <br>
  
   - ## Rentabilidade: 
  
