@@ -74,6 +74,8 @@ Integrantes da equipe:
  
 </div>
 
+<br>
+
 ## Referências:
  #### Material de base da pesquisa:
  
